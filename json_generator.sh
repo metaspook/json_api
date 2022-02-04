@@ -1,0 +1,1 @@
+echo -e "[\n$(for i in `ls`;do name=${i%.png}; name=${name/-/ }; id=$((++id));echo "\t{\t\n\t\t\"id\": $id\n\t\t\"name\": $name\n\t\t\"image\": \"assets/images/foods/$i\n\t},";done)\n]"
