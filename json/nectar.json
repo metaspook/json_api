@@ -1,0 +1,66 @@
+[
+    {
+        "userType": 2,
+        "userId": 4,
+        "userName": "abc",
+        "loginUserName": "CID-abc",
+        "serverId": 4,
+        "serverUrl": "http:\/\/194.195.244.141",
+        "systemType": "_ERP_",
+        "gocId": 2,
+        "companyId": 1,
+        "appId": 45,
+        "companyLogoUrl": "\/uploads\/CompanyImage\/4c48d9d0f26918c8bd866a197e50e15e.png",
+        "companyName": "HoneyBee Iot Ltd.",
+        "userCompanyIds": [
+            1,
+            4
+        ],
+        "userAppIds": [
+            1,
+            40
+        ],
+        "userCompanyList": {
+            "1": {
+                "companyLogoUrl": "\/uploads\/CompanyImage\/4c48d9d0f26918c8bd866a197e50e15e.png",
+                "companyName": "HoneyBee IoT Ltd."
+            },
+            "4": {
+                "companyLogoUrl": "\/uploads\/CompanyImage\/4c48d9d0f26918c8bd866a197e50e15e.png",
+                "companyName": "Nastec Srl"
+            }
+        }
+    },
+    {
+        "userType": 2,
+        "userId": 4,
+        "userName": "abc",
+        "loginUserName": "CID-abc",
+        "serverId": 4,
+        "serverUrl": "http:\/\/194.195.244.141",
+        "systemType": "_ERP_",
+        "gocId": 2,
+        "companyId": 1,
+        "appId": 45,
+        "companyLogoUrl": "\/uploads\/CompanyImage\/4c48d9d0f26918c8bd866a197e50e15e.png",
+        "companyName": "HoneyBee Iot Ltd.",
+        "userCompanyIds": [
+            1,
+            4
+        ],
+        "userAppIds": [
+            1,
+            40
+        ],
+        "userCompanyList": {
+            "1": {
+                "companyLogoUrl": "\/uploads\/CompanyImage\/4c48d9d0f26918c8bd866a197e50e15e.png",
+                "companyName": "HoneyBee IoT Ltd."
+            },
+            "4": {
+                "companyLogoUrl": "\/uploads\/CompanyImage\/4c48d9d0f26918c8bd866a197e50e15e.png",
+                "companyName": "Nastec Srl"
+            }
+        }
+    }
+]
